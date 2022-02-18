@@ -171,7 +171,9 @@ figcaption {
 }
 
 .flex-container4 > div {
-    width: 380px;
+    /* width: 380px; */
+    /* width: 23.5%; */
+	width: 47%;
     margin: 10px;
     text-align: center;
     font-size: 1em;
@@ -184,6 +186,14 @@ figcaption {
 .flex-container4 > div > figure > img{
 	background-color: white;
 	width: 100%;
+}
+
+@media only screen and (min-width: 1400px) {
+	.flex-container4 > div {
+		/* width: 48.2%; */
+		width: 23.5%;
+
+	}
 }
 
 #FAQ ul{
