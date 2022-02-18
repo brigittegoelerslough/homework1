@@ -8,3 +8,4 @@ Files:
 - mailing-list.html: the website page following if someone enters the name and email to be added to mailing list
 - render.html: an mockup of what the final app may look like (used in an iframe)
 - stylesheet.css: CSS for all three pages
+- images folder: a folder with all images used in files
